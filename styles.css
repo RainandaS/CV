@@ -1,0 +1,45 @@
+*{
+    background-position: center;
+    background-color: white;
+    align-items: center;
+    width: 100vw;
+}
+
+body {
+    height: 100vh;
+}
+
+.Navbar ul{
+    list-style: none;
+    display:flex;
+    padding-top: 32px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.Navbar ul li a{
+    background-color: rgb(234, 255, 0);
+    color: rgb(7, 7, 6);
+    padding: 15px;
+    border-radius: 8px;
+    font-family: "combo";
+    text-decoration: none;
+    font-size: 3ch;
+
+}
+
+body h1 {
+    font-family: "lobster two";
+    text-align: center;
+    padding-top: 50px;
+    font-size:8ch;
+    color:rgb(63, 3, 119);
+    background-color: rgb(208, 255, 0);
+    padding-bottom: 50px;
+    margin: none;
+}
+
+#text {
+    position: absolute;
+}
+
